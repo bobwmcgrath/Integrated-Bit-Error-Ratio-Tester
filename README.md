@@ -23,7 +23,7 @@ This folder contains all modules connected. To use these files follow these step
 1. If you haven't php and apache installed on you machine, follow this [link](https://www.vultr.com/docs/how-to-install-apache-mysql-and-php-on-ubuntu-16-04)
 2. If you haven't iverilog installed in your machine, type command :
 sudo apt-get install iverilog
-3. Now download this repository [IBERT](https://github.com/akhil-123/Integrated-Bit-Error-Ratio-Tester/tree/master/IBERT).
+3. Now download this repository [IBERT](https://github.com/akhil-123/Integrated-Bit-Error-Ratio-Tester).
 4. Unzip all the files to /var/www/html
 5. Type command to grant permission : sudo chmod -R 777
 6. Now open the browser and type localhost/home.html
